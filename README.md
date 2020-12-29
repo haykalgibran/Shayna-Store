@@ -1,4 +1,4 @@
-# belajar-bwa
+# Shayna-Store
 
 ## Project setup
 ```
